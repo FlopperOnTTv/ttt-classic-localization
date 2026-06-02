@@ -59,7 +59,7 @@
     "TTT_EQUIP_HELP_CARRY"            "Du kannst nur das kaufen, für das du auch Platz hast."
     "TTT_EQUIP_CARRY"                 "Du kannst diese Ausrüstung tragen."
     "TTT_EQUIP_CARRY_OWN"             "Du trägst dieses Teil bereits."
-    "TTT_EQUIP_CARRY_SLOT"            "Du trägst bereits eine Waffe in Slot %s."
+    "TTT_EQUIP_CARRY_SLOT"            "Du trägst bereits eine Waffe in Slot %d."
     "TTT_EQUIP_HELP_STOCK"            "Einige Teile kannst du nur einmal pro Runde kaufen."
     "TTT_EQUIP_STOCK_DENY"            "Dieses Teil ist nicht länger vorrätig."
     "TTT_EQUIP_STOCK_OK"              "Dieses Teil ist vorrätig."

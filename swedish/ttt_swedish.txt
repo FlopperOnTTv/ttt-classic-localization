@@ -59,7 +59,7 @@
     "TTT_EQUIP_HELP_CARRY"            "Du kan endast köpa verktyg för vilka du har rum."
     "TTT_EQUIP_CARRY"                 "Du kan bära detta verktyg."
     "TTT_EQUIP_CARRY_OWN"             "Du bär redan detta verktyg."
-    "TTT_EQUIP_CARRY_SLOT"            "Du har redan ett vapen i nummer %s."
+    "TTT_EQUIP_CARRY_SLOT"            "Du har redan ett vapen i nummer %d."
     "TTT_EQUIP_HELP_STOCK"            "Vissa verktyg kan du endast köpa en utav varje runda."
     "TTT_EQUIP_STOCK_DENY"            "Detta verktyg har tagit slut."
     "TTT_EQUIP_STOCK_OK"              "Detta verktyg finns tillgängligt."

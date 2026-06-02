@@ -59,7 +59,7 @@
     "TTT_EQUIP_HELP_CARRY"            "自分が所持してないものだけだけ買うことができるぞ。"
     "TTT_EQUIP_CARRY"                 "この装備は持つことが可能だ。"
     "TTT_EQUIP_CARRY_OWN"             "既にこのアイテムを持っているぞ。"
-    "TTT_EQUIP_CARRY_SLOT"            "既にスロット%sの武器を持っているぞ。"
+    "TTT_EQUIP_CARRY_SLOT"            "既にスロット%dの武器を持っているぞ。"
     "TTT_EQUIP_HELP_STOCK"            "いくつかのアイテムはラウンド毎に1つしか買えない。"
     "TTT_EQUIP_STOCK_DENY"            "このアイテムはもう在庫がない。"
     "TTT_EQUIP_STOCK_OK"              "このアイテムはまだ在庫がある。"

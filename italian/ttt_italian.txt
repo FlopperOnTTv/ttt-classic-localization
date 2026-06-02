@@ -59,7 +59,7 @@
     "TTT_EQUIP_HELP_CARRY"            "Puoi solo acquistare oggetti per i quali hai spazio."
     "TTT_EQUIP_CARRY"                 "Puoi portare questo oggetto."
     "TTT_EQUIP_CARRY_OWN"             "Stai già portando questo oggetto."
-    "TTT_EQUIP_CARRY_SLOT"            "Hai già un'arma nello slot %s."
+    "TTT_EQUIP_CARRY_SLOT"            "Hai già un'arma nello slot %d."
     "TTT_EQUIP_HELP_STOCK"            "Di alcuni oggetti ne puoi acquistare solo uno per round."
     "TTT_EQUIP_STOCK_DENY"            "Questo oggetto non si può più acquistare."
     "TTT_EQUIP_STOCK_OK"              "Questo oggetto si può più acquistare."

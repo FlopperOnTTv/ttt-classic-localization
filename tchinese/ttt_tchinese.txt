@@ -59,7 +59,7 @@
     "TTT_EQUIP_HELP_CARRY"            "您只能在擁有空位時購買物品。"
     "TTT_EQUIP_CARRY"                 "您能攜帶這件裝備。"
     "TTT_EQUIP_CARRY_OWN"             "您已擁有這件裝備。"
-    "TTT_EQUIP_CARRY_SLOT"            "已擁有武器欄第 %s 項的武器。"
+    "TTT_EQUIP_CARRY_SLOT"            "已擁有武器欄第 %d 項的武器。"
     "TTT_EQUIP_HELP_STOCK"            "每回合您只能購買一件相同的物品。"
     "TTT_EQUIP_STOCK_DENY"            "這件物品不會再有庫存。"
     "TTT_EQUIP_STOCK_OK"              "這件物品已有庫存。"

@@ -59,7 +59,7 @@
         "TTT_EQUIP_HELP_CARRY"                              "Você só pode comprar coisas as quais você tenha algum compartimento para guardá-las."
         "TTT_EQUIP_CARRY"                                   "Você pode comprar este equipamento."
         "TTT_EQUIP_CARRY_OWN"                               "Você já tem este equipamento."
-        "TTT_EQUIP_CARRY_SLOT"                              "Você já tem um equipamento no compartimento %s."
+        "TTT_EQUIP_CARRY_SLOT"                              "Você já tem um equipamento no compartimento %d."
         "TTT_EQUIP_HELP_STOCK"                              "Certos itens só poderão ser comprados uma única vez por rodada."
         "TTT_EQUIP_STOCK_DENY"                              "Este item não está mais em estoque."
         "TTT_EQUIP_STOCK_OK"                                "Este item está em estoque."

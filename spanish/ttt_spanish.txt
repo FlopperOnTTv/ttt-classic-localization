@@ -59,7 +59,7 @@
     "TTT_EQUIP_HELP_CARRY"            "Sólo puedes comprar cosas para las que tengas espacio."
     "TTT_EQUIP_CARRY"                 "Puedes llevar esto."
     "TTT_EQUIP_CARRY_OWN"             "Ya tienes esto."
-    "TTT_EQUIP_CARRY_SLOT"            "Ya tienes esta arma en el espacio %s."
+    "TTT_EQUIP_CARRY_SLOT"            "Ya tienes esta arma en el espacio %d."
     "TTT_EQUIP_HELP_STOCK"            "Algunos objetos sólo se pueden comprar una vez por ronda."
     "TTT_EQUIP_STOCK_DENY"            "No hay existencias de este objeto."
     "TTT_EQUIP_STOCK_OK"              "Hay existencias de este objeto."

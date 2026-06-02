@@ -59,7 +59,7 @@
     "TTT_EQUIP_HELP_CARRY"            "Yalnızca yeriniz olduğunda bir şeyler satın alabilirsiniz."
     "TTT_EQUIP_CARRY"                 "Bu ekipmanı taşıyabilirsiniz."
     "TTT_EQUIP_CARRY_OWN"             "Bu ögeyi zaten taşıyorsunuz."
-    "TTT_EQUIP_CARRY_SLOT"            "%s yuvasında zaten bir silah taşıyorsun."
+    "TTT_EQUIP_CARRY_SLOT"            "%d yuvasında zaten bir silah taşıyorsun."
     "TTT_EQUIP_HELP_STOCK"            "Belirli ögelerden her rauntta yalnızca bir tane satın alabilirsiniz."
     "TTT_EQUIP_STOCK_DENY"            "Bu ürün artık stokta yok."
     "TTT_EQUIP_STOCK_OK"              "Bu ürün stokta mevcut."
