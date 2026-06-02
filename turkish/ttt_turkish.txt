@@ -10,7 +10,6 @@
     // "TTT_LAST_WORDS"                    ""
     // "TTT_TERRORISTS"                    ""
     // "TTT_SPECTATORS"                    ""
-
     // Round status messages
     // "TTT_ROUND_MINPLAYERS"              ""
     // "TTT_ROUND_BEGINTIME"               ""
@@ -26,19 +25,16 @@
     // "TTT_LIMIT_ROUND"                   ""
     // "TTT_LIMIT_TIME"                    ""
     // "TTT_LIMIT_LEFT"                    ""
-    
     // Credit awards
     // "TTT_CREDIT_DET_ALL"                ""
     // "TTT_CREDIT_TR_ALL"                 ""
     // "TTT_CREDIT_KILL"                   ""
-
     // Karma
     // "TTT_KARMA_DMG_FULL"                ""
     // "TTT_KARMA_DMG_OTHER"               ""
     // "TTT_KARMA_KICKED"                  ""
     // "TTT_KARMA_BANNED"                  ""
     // "TTT_KARMA_BANNED_PERM"             ""
-
     // Body identification messages
     // "TTT_BODY_FOUND"                    ""
     // "TTT_BODY_FOUND_T"                  ""
@@ -49,13 +45,11 @@
     // "TTT_BODY_CALL_ERROR"               ""
     // "TTT_BODY_BURNING"                  ""
     // "TTT_BODY_CREDITS"                  ""
-
     // Menus and windows
     // "TTT_CLOSE"                         ""
     // "TTT_CANCEL"                        ""
     // "TTT_NEXT"                          ""
     // "TTT_PREV"                          ""
-
     // Equipment buying menu
     // "TTT_EQUIP_TITLE"                   ""
     // "TTT_EQUIP_TABTITLE"                ""
@@ -78,14 +72,12 @@
     // "TTT_EQUIP_TOOLTIP_DISGUISE"        ""
     // "TTT_EQUIP_TOOLTIP_RADIO"           ""
     // "TTT_EQUIP_TOOLTIP_XFER"            ""
-
     // Disguiser tab in equipment menu
     // "TTT_DISG_NAME"                     ""
     // "TTT_DISG_MENUTITLE"                ""
     // "TTT_DISG_NOT_OWNED"                ""
     // "TTT_DISG_ENABLE"                   ""
     // "TTT_DISG_HELP"                     ""
-
     // Radar tab in equipment menu
     // "TTT_RADAR_NAME"                    ""
     // "TTT_RADAR_MENUTITLE"               ""
@@ -94,7 +86,6 @@
     // "TTT_RADAR_AUTO"                    ""
     // "TTT_RADAR_HELP"                    ""
     // "TTT_RADAR_CHARGING"                ""
-
     // Transfer tab in equipment menu
     // "TTT_XFER_NAME"                     ""
     // "TTT_XFER_MENUTITLE"                ""
@@ -104,12 +95,10 @@
     // "TTT_XFER_NO_RECIP"                 ""
     // "TTT_XFER_SUCCESS"                  ""
     // "TTT_XFER_RECEIVED"                 ""
-
     // Radio tab in equipment menu
     // "TTT_RADIO_NAME"                    ""
     // "TTT_RADIO_HELP"                    ""
     // "TTT_RADIO_NOTPLACED"               ""
-
     // Radio soundboard buttons
     // "TTT_RADIO_BUTTON_SCREAM"           ""
     // "TTT_RADIO_BUTTON_EXPL"             ""
@@ -127,10 +116,8 @@
     // "TTT_RADIO_BUTTON_SIPIST"           ""
     // "TTT_RADIO_BUTTON_TELE"             ""
     // "TTT_RADIO_BUTTON_HEAL"             ""
-    
     // Intro screen shown after joining
     // "TTT_INTRO_HELP"                    ""
-
     // Radiocommands/quickchat
     // "TTT_QUICK_TITLE"                   ""
     // "TTT_QUICK_YES"                     ""
@@ -146,7 +133,6 @@
     // "TTT_QUICK_DISG"                    ""
     // "TTT_QUICK_CORPSE"                  ""
     // "TTT_QUICK_CORPSE_ID"               ""
-
     // Body search window
     // "TTT_SEARCH_TITLE"                  ""
     // "TTT_SEARCH_INFO"                   ""
@@ -178,7 +164,6 @@
     // "TTT_SEARCH_KILLS1"                 ""
     // "TTT_SEARCH_KILLS2"                 ""
     // "TTT_SEARCH_EYES"                   ""
-
     // Scoreboard
     // "TTT_SB_PLAYING"                    ""
     // "TTT_SB_MAPCHANGE"                  ""
@@ -198,12 +183,10 @@
     // "TTT_SB_STATUS_DEV"                 ""
     // "TTT_SB_STATUS_MAPPER"              ""
     // "TTT_SB_SORTBY"                     ""
-
     // Help and settings menu (F1)
     // "TTT_HELP_TITLE"                    ""
     // "TTT_HELP_TUT"                      ""
     // "TTT_HELP_TUT_TIP"                  ""
-
     // Settings
     // "TTT_SET_TIPS"                      ""
     // "TTT_SET_STARTPOPUP"                ""
@@ -217,7 +200,6 @@
     // "TTT_SET_MSG_CUE"                   ""
     // "TTT_SET_SPECMODE"                  ""
     // "TTT_SET_AVOID_DET"                 ""
-
     // Weapons and equipment, HUD and messages
     // "TTT_BUY_NO_STOCK"                  ""
     // "TTT_BUY_RECEIVED"                  ""
@@ -231,7 +213,6 @@
     // "TTT_DISG_TURNED_OFF"               ""
     // "TTT_DROP_NO_AMMO"                  ""
     // "TTT_HAT_RETRIEVE"                  ""
-
     // Equipment item descriptions
     // "TTT_ITEM_PASSIVE"                  ""
     // "TTT_ITEM_ACTIVE"                   ""
@@ -242,7 +223,6 @@
     // "TTT_ITEM_RADAR_DESC"               ""
     // "TTT_ITEM_DISG"                     ""
     // "TTT_ITEM_DISG_DESC"                ""
-
     // C4
     // "TTT_C4_NAME"                       ""
     // "TTT_C4_HINT"                       ""
@@ -267,13 +247,11 @@
     // "TTT_C4_DISARM_OTHER"               ""
     // "TTT_C4_STATUS_ARMED"               ""
     // "TTT_C4_STATUS_DISARMED"            ""
-
     // Visualizer
     // "TTT_VIS_NAME"                      ""
     // "TTT_VIS_HINT"                      ""
     // "TTT_VIS_HELP_PRI"                  ""
     // "TTT_VIS_DESC"                      ""
-
     // Decoy
     // "TTT_DECOY_NAME"                    ""
     // "TTT_DECOY_HINT"                    ""
@@ -281,23 +259,19 @@
     // "TTT_DECOY_BROKEN"                  ""
     // "TTT_DECOY_HELP_PRI"                ""
     // "TTT_DECOY_DESC"                    ""
-
     // Defuser
     // "TTT_DEFUSER_NAME"                  ""
     // "TTT_DEFUSER_HELP"                  ""
     // "TTT_DEFUSER_DESC"                  ""
-
     // Flare gun
     // "TTT_FLARE_NAME"                    ""
     // "TTT_FLARE_DESC"                    ""
-
     // Health station
     // "TTT_HSTATION_NAME"                 ""
     // "TTT_HSTATION_HINT"                 ""
     // "TTT_HSTATION_BROKEN"               ""
     // "TTT_HSTATION_HELP"                 ""
     // "TTT_HSTATION_DESC"                 ""
-
     // Knife
     // "TTT_KNIFE_NAME"                    ""
     // "TTT_KNIFE_THROWN"                  ""
@@ -305,25 +279,21 @@
     // "TTT_KNIFE_HELP_PRI"                ""
     // "TTT_KNIFE_HELP_SEC"                ""
     // "TTT_KNIFE_INSTANT"                 ""
-
     // Radio
     // "TTT_RADIO_BROKEN"                  ""
     // "TTT_RADIO_HINT"                    ""
     // "TTT_RADIO_HELP_PRI"                ""
     // "TTT_RADIO_HELP_SEC"                ""
     // "TTT_RADIO_DESC"                    ""
-
     // Silenced pistol
     // "TTT_SIPISTOL_NAME"                 ""
     // "TTT_SIPISTOL_DESC"                 ""
-
     // Newton launcher
     // "TTT_NEWTON_NAME"                   ""
     // "TTT_NEWTON_DESC"                   ""
     // "TTT_NEWTON_FORCE"                  ""
     // "TTT_NEWTON_HELP_PRI"               ""
     // "TTT_NEWTON_HELP_SEC"               ""
-
     // Binoculars
     // "TTT_BINOC_NAME"                    ""
     // "TTT_BINOC_DESC"                    ""
@@ -331,11 +301,9 @@
     // "TTT_BINOC_HELP_SEC"                ""
     // "TTT_BINOC_ZOOM_LEVEL"              ""
     // "TTT_BINOC_BODY"                    ""
-
     // UMP
     // "TTT_UMP_DESC"                      ""
     // "TTT_STUNGUN_NAME"                  ""
-
     // DNA scanner
     // "TTT_DNA_NAME"                      ""
     // "TTT_DNA_IDENTIFY"                  ""
@@ -366,12 +334,10 @@
     // "TTT_DNA_HUD_WEAPON"                ""
     // "TTT_DNA_HUD_BUTTON"                ""
     // "TTT_DNA_HUD_DOOR"                  ""
-
     // Magneto stick
     // "TTT_MAGNET_NAME"                   ""
     // "TTT_DETACH_NO_ROOM"                ""
     // "TTT_MAGWRENCH_HELP_PRI"            ""
-
     // Grenades and misc
     // "TTT_GRENADE_SMOKE"                 ""
     // "TTT_GRENADE_FIRE"                  ""
@@ -388,7 +354,6 @@
     // "TTT_FRAG_DESC"                     ""
     // "TTT_DISC_NAME"                     ""
     // "TTT_CONFGRENADE_NAME"              ""
-
     // Teleporter
     // "TTT_TELE_NAME"                     ""
     // "TTT_TELE_FAILED"                   ""
@@ -401,7 +366,6 @@
     // "TTT_TELE_HELP_PRI"                 ""
     // "TTT_TELE_HELP_SEC"                 ""
     // "TTT_TELE_DESC"                     ""
-
     // Ammo names, shown when picked up
     // "TTT_AMMO_PISTOL"                   ""
     // "TTT_AMMO_SMG1"                     ""
@@ -409,7 +373,6 @@
     // "TTT_AMMO_357"                      ""
     // "TTT_AMMO_ALYXGUN"                  ""
     // "TTT_AMMO_AR2ALTFIRE"               ""
-
     // HUD interface text
     // "TTT_ROUND_WAIT"                    ""
     // "TTT_ROUND_PREP"                    ""
@@ -417,21 +380,18 @@
     // "TTT_ROUND_POST"                    ""
     // "TTT_OVERTIME"                      ""
     // "TTT_HASTEMODE"                     ""
-
     // TargetID health status
     // "TTT_HP_HEALTHY"                    ""
     // "TTT_HP_HURT"                       ""
     // "TTT_HP_WOUNDED"                    ""
     // "TTT_HP_BADWND"                     ""
     // "TTT_HP_DEATH"                      ""
-
     // TargetID karma status
     // "TTT_KARMA_MAX"                     ""
     // "TTT_KARMA_HIGH"                    ""
     // "TTT_KARMA_MED"                     ""
     // "TTT_KARMA_LOW"                     ""
     // "TTT_KARMA_MIN"                     ""
-
     // TargetID misc
     // "TTT_CORPSE"                        ""
     // "TTT_CORPSE_HINT"                   ""
@@ -439,36 +399,30 @@
     // "TTT_TARGET_UNID"                   ""
     // "TTT_TARGET_TRAITOR"                ""
     // "TTT_TARGET_CREDITS"                ""
-
     // Traitor buttons (HUD buttons with hand icons that only traitors can see)
     // "TTT_TBUT_SINGLE"                   ""
     // "TTT_TBUT_REUSE"                    ""
     // "TTT_TBUT_RETIME"                   ""
     // "TTT_TBUT_HELP"                     ""
-
     // Equipment info lines (on the left above the health/ammo panel)
     // "TTT_DISG_HUD"                      ""
     // "TTT_RADAR_HUD"                     ""
-
     // Spectator muting of living/dead
     // "TTT_MUTE_LIVING"                   ""
     // "TTT_MUTE_SPECS"                    ""
     // "TTT_MUTE_ALL"                      ""
     // "TTT_MUTE_OFF"                      ""
-
     // Spectators and prop possession
     // "TTT_PUNCH_TITLE"                   ""
     // "TTT_PUNCH_HELP"                    ""
     // "TTT_PUNCH_MALUS"                   ""
     // "TTT_PUNCH_BONUS"                   ""
     // "TTT_SPEC_HELP"                     ""
-
     // Info popups shown when the round starts
     // "TTT_INFO_POPUP_INNOCENT"           ""
     // "TTT_INFO_POPUP_DETECTIVE"          ""
     // "TTT_INFO_POPUP_TRAITOR_ALONE"      ""
     // "TTT_INFO_POPUP_TRAITOR"            ""
-
     // Various other text
     // "TTT_NAME_CANT_CHANGE"              ""
     // "TTT_IDLE_POPUP"                    ""
@@ -478,7 +432,6 @@
     // "TTT_SPEC_MODE_WARNING_LINE_1"      ""
     // "TTT_SPEC_MODE_WARNING_LINE_2"      ""
     // "TTT_DISABLE_SPEC_MODE"             ""
-
     // Tips, shown at bottom of screen to spectators
     // "TTT_TIPS_PANEL_TITLE"              ""
     // "TTT_TIPS_PANEL_TIP"                ""
@@ -530,7 +483,6 @@
     // "TTT_TIP47"                         ""
     // "TTT_TIP48"                         ""
     // "TTT_TIP49"                         ""
-    
     // Round report
     // "TTT_REPORT_TITLE"                  ""
     // "TTT_REPORT_TAB_HILITE"             ""
@@ -559,7 +511,6 @@
     // "TTT_COL_TOTAL"                     ""
     // "TTT_SOMETHING"                     ""
     // "TTT_SOMEONE"                       ""
-
     // Kill events
     // "TTT_EV_BLOWUP"                     ""
     // "TTT_EV_BLOWUP_TRAP"                ""
@@ -588,7 +539,6 @@
     // "TTT_EV_CRUSH_USING"                ""
     // "TTT_EV_OTHER"                      ""
     // "TTT_EV_OTHER_USING"                ""
-
     // Other events
     // "TTT_EV_BODY"                       ""
     // "TTT_EV_C4_PLANT"                   ""
@@ -602,7 +552,6 @@
     // "TTT_EV_WIN_TRAITOR"                ""
     // "TTT_EV_WIN_INNO"                   ""
     // "TTT_EV_WIN_TIME"                   ""
-
     // Awards/highlights
     // "TTT_AW_SUI1_TITLE"                 ""
     // "TTT_AW_SUI1_TEXT"                  ""
@@ -734,17 +683,13 @@
     // "TTT_AW_TOD1_TEXT"                  ""
     // "TTT_AW_TOD2_TITLE"                 ""
     // "TTT_AW_TOD2_TEXT"                  ""
-
     //
-
     // Chat
     // "TTT_TRAITOR_SAY"                   ""
     // "TTT_SAY"                           ""
-
     // AFK and Idle
     // "TTT_IDLE_POPUP_TITLE"              ""
     // "TTT_AFK_CHAT"                      ""
-
     // Entity Menu
     // "TTT_MENU_TITLE_ROOT"               ""
     // "TTT_MENU_TITLE_ADD"                ""
@@ -786,42 +731,32 @@
     // "TTT_MENU_ERROR_HOST_ONLY"          ""
     // "TTT_MENU_ERROR_SAVE_FAILED"        ""
     // "TTT_MENU_RECREATE_NEAREST"         ""
-
     // AK47
     // "TTT_AK47_DESC"                     ""
-
     // Silenced AWP
     // "TTT_SILENCEDAWP_NAME"              ""
     // "TTT_SILENCEDAWP_DESC"              ""
-
     // Silenced M4A1
     // "TTT_SILENCED_M4A1"                 ""
     // "TTT_SILENCED_M4A1_DESC"             ""
-
     // P90
     // "TTT_P90_DESC"                      ""
-
     // Revolver
     // "TTT_REVOLVER_DESC"                 ""
-
     // Silent Fox
     // "TTT_SILENTFOX_DESC"                ""
-
     // Suicide Bomb
     // "TTT_SUICIDEBOMB_NAME"              ""
     // "TTT_SUICIDEBOMB_DESC"              ""
     // "TTT_SUICIDEBOMB_HELP_PRI"          ""
-
     // Laser Sight
     // "TTT_LASERSIGHT_NAME"               ""
     // "TTT_LASERSIGHT_DESC"               ""
-
     // Chicken / Spectator Chicken
     // "TTT_CHICKEN_SPAWN"                 ""
     // "TTT_CHICKEN_RESPAWN"               ""
     // "TTT_CHICKEN_BODY_NOT_FOUND"        ""
     // "TTT_BLIND"                         ""
-
     // Tutorials
     // "TTT_TUTORIAL_EQUIPMENT"            ""
     // "TTT_TUTORIAL_TRAITOR_VOICE"        ""
@@ -829,7 +764,6 @@
     // "TTT_TUTORIAL_RADIO"                ""
     // "TTT_TUTORIAL_RADAR"                ""
     // "TTT_TUTORIAL_DISGUISER"            ""
-
     // Game UI
     // "TTT_GAME_UI_GAME_MENU_DISCORD"       ""
     // "TTT_GAME_UI_MAIN_MENU_HINT_CREATE_SERVER" ""
@@ -837,7 +771,6 @@
     // "TTT_SETTINGS"                      ""
     // "TTT_GAME_UI_MAIN_MENU_HINT_QUIT_GAME" ""
     // "TTT_GAME_UI_MAIN_MENU_HINT_STATS"    ""
-
     // Key bindings
     // "TTT_DROP_WEAPON"                   ""
     // "TTT_DROP_AMMO"                     ""
@@ -852,7 +785,6 @@
     // "TTT_PING"                          ""
     // "TTT_EQUIP_SWITCH"                   ""
     // "TTT_UNARMED"                       ""
-
     // Client settings
     // "TTT_LANGUAGE"                      ""
     // "TTT_LANGUAGE_STEAM"                ""
@@ -884,7 +816,6 @@
     // "TTT_ANNOUNCE_ACHIEVEMENT"           ""
     // "TTT_ANNOUNCE_ACHIEVEMENT_CLIENT"    ""
     // "TTT_ACHIEVEMENT_SOUND"              ""
-
     // Achievements and Statistics
     // "TTT_ACHIEVEMENT_UNLOCKED"          ""
     // "TTT_STATS_LOADING"                 ""
@@ -1064,7 +995,6 @@
     // "TTT_HIDDEN_ACHIEVEMENT_DESC"       ""
     // "TTT_HIDDEN_ACHIEVEMENTS_TITLE"     ""
     // "TTT_HIDDEN_ACHIEVEMENTS_DESC"      ""
-
     // Server settings / headers
     // "TTT_HEADER_DOC_INFO"                ""
     // "TTT_HEADER_GENERAL"                ""
@@ -1166,7 +1096,7 @@
     // "TTT_TUTORIAL_DURATION"             ""
     // "TTT_TUTORIAL_RESET"                ""
     // "TTT_TRAITOR_GLOW"                  ""
-    // "TTT_GAME_TEXT_RATE_LIMIT"          "" 
+    // "TTT_GAME_TEXT_RATE_LIMIT"          ""
     // "TTT_HEADER_SPEC_CHICKEN"           ""
     // "TTT_SPEC_CHICKEN"                  ""
     // "TTT_SPEC_CHICKEN_FORCE"            ""

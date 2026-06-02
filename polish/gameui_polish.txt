@@ -1,7 +1,7 @@
-"lang" 
-{ 
-"Language" "polish" 
-"Tokens" 
-{ 
-} 
-}  
+"lang"
+{
+    "Language"          "polish"
+    "Tokens"
+    {
+    }
+}
