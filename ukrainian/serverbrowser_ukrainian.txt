@@ -152,7 +152,6 @@
         "VAC_NoBans"                                            "В хорошому стані"
         "VAC_Status"                                            "Статус VAC:"
         "Steam_ValidLoginRequiredTitle"                         "Потрібен дійсний вхід у Steam"
-        // need to remove the VAC line from this when we have our authentication system going via the Steam servers (when it should change to a login failure)
         "Steam_ValidLoginRequired"                              "Не вдалося підключитися до серверів Steam VAC.  Щоб вирішити проблеми з мережею, натисніть посилання нижче."
         "VAC_ConnectionIssuesSupport_Title"                     "Помилка безпечного підключення"
         "VAC_ConnectionIssuesSupportSite"                       "Натисніть тут, щоб відвідати службу підтримки Steam"
