@@ -194,7 +194,7 @@
     "TTT_SET_MINIMAL_ID"                          "Minimalist Target ID under crosshair (no karma text, hints, etc)"
     "TTT_SET_HEALTHLABEL"                         "Show health status label on health bar"
     "TTT_HUD_SHOW_SELF"                           "Show own name and avatar on HUD"
-    "TTT_HUD_SHOW_AMMO_ICON"                      "Show ammo type icon on ammo bar"
+    "TTT_HUD_SHOW_AMMO_TYPE"                      "Show ammo type on ammo bar"
     "TTT_HUD_MAP_NAME_FORMAT"                     "Display map filename instead of friendly map name"
     "TTT_SET_FASTSW"                              "Fast weapon switch"
     "TTT_SET_FASTSW_MENU"                         "Enable weapon switcher with fast weapon switch"
