@@ -200,6 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "Zobrazovat menu rychlého přepínání zbraní"
     "TTT_SET_WSWITCH"                             "Vypnout automatické zavírání menu pro přepínání zbraní"
     "TTT_SET_CUES"                                "Přehrát zvukový signál při začátku nebo konci kola"
+    "TTT_SET_FLASH_TASKBAR"                       "Blikání TTT Classic na hlavním panelu, když kolo skončí nebo začne"
     "TTT_SET_MSG_CUE"                             "Přehrát zvukový signál při zobrazení oznámení"
     "TTT_SET_SPECMODE"                            "Režim pouze pro diváky (vždy zůstat divákem)"
     "TTT_SET_AVOID_DET"                           "Vyhnout se výběru jako Detektiv"
